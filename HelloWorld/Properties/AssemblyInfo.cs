@@ -28,6 +28,7 @@ using System.Runtime.InteropServices;
 //      主版本
 //      次版本 
 //      生成号
+//      生成号
 //      修订号
 //
 
